@@ -5,5 +5,7 @@ auto-click assistant for cube game
 
 # dependencies
 [jna-platform-5.14.0](https://mvnrepository.com/artifact/net.java.dev.jna/jna-platform/5.14.0)
+
 [flatlaf-3.4.1](https://mvnrepository.com/artifact/com.formdev/flatlaf/3.4.1)
+
 [gson-2.9.1](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.9.1)
